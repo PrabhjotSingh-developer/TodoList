@@ -12,8 +12,8 @@ These instructions will help you set up the project on your local machine for de
      cd react-todo-app
 3. Install the dependencies:
      npm install
-4. Running the Project
-
+4. Running the Project : 
+     npm run dev
 
 # Features
 1. Add tasks
