@@ -9,7 +9,7 @@ These instructions will help you set up the project on your local machine for de
 1. Clone the repository:
     git clone https://github.com/PrabhjotSingh-developer/TodoList.git
 2. Navigate to the project directory:
-     cd react-todo-app
+     cd TodoList
 3. Install the dependencies:
      npm install
 4. Running the Project : 
